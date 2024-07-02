@@ -1,10 +1,10 @@
 {
     "name": "Nostradamus",
     "version": "0.0.1",
-    "description": "Nostradamus, pseudonym of Michel de Nostredame
+    "description": """Nostradamus, pseudonym of Michel de Nostredame
 He is considered by many to be one of the most famous and important prophecy writers in history.
 was a French astrologer, writer, pharmacist and apothecary of the 1500s.
-He probably loved cats!.",
+He probably loved cats!.""",
     "author_name": "Romeo Ceccato",
     "author_url": "https://cyberservices.it",
     "plugin_url": "https://github.com/romeo-60/Nostradamus",
