@@ -1,10 +1,10 @@
 {
     "name": "Nostradamus",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": """Nostradamus, pseudonym of Michel de Nostredame,famous astrologer, writer, pharmacist and apothecary",
     "author_name": "Romeo Ceccato",
     "author_url": "https://cyberservices.it",
     "plugin_url": "/romeo-60/Nostradamus",
     "tags": "cat, prediction, nostradamus",
-    "thumb": "https://github.com/romeo-60/Nostradamus/blob/main/Nostradamus.png"
+    "thumb": "https://raw.githubusercontent.com/romeo-60/Nostradamus/main/Nostradamus.png"
 }
